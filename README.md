@@ -1,3 +1,19 @@
-# dsrmoving
+# DSR Moving Corporation
 
-readme going here
+
+## Live Site
+https://lamanaml.github.io/ClickyGame/
+
+## Skills
+Materialize 
+
+Bootstrap 
+
+HTML5
+
+Google Fonts
+
+
+
+
+
