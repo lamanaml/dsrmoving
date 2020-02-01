@@ -25,7 +25,7 @@
     <h1>DSR Moving Corporation</h1>
     <p>Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</p>
     <div>
-      <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light teal lighten-1 btn-floating pulse">Request a Quote</a>
+      <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light teal lighten-1 pulse">Request a Quote</a>
     </div>
   </div>
 </div>
@@ -61,13 +61,10 @@
   <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
-        <div class="row left z-depth-1">
-          <h3 class="header col s12 light red-text red-text-head ">Winter Special!  </h3>
-          <h4 class="header col s12 light red-text ">Take 10% off your entire move!</h4>
-        </div>
+        
       </div>
     </div>
-    <div class="parallax"><img src="assets/images/winter.jpg" alt="winter image"></div>
+    <div ><img src="assets/images/10%coupon.png" alt="winter image"></div>
   </div>
 
 <!-- contact -->
