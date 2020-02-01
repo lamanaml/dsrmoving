@@ -69,9 +69,15 @@
   <div class="divider"></div>
   <div class="section">
     <h5>Full-Service Packing</h5>
-    <p>From delivery of packing supplies to the complete packing of your home, we can help.  We provide full or partial packing services at the same hourly rate as the move. We understand how important your time is, so we are able to pack even the largest homes within hours. </p>
+    <p> We provide full or partial packing services at the same hourly rate as the move. We understand how important your time is, so we are able to pack even the largest homes within hours. </p>
   </div>
 
+    <div class="divider"></div>
+  <div class="section">
+    <h5>Packing Supplies</h5>
+    <p>Moving yourself but not sure where to get proper packing supplies? Give us a call! We can drop off everything that you need to to get your packing underway!  If you are not able to pack everything, let us know, our pack crew can come by and help you get the job done! </p>
+  </div>
+Moving yourself but not sure where to get proper packing supplies? Give us a call! TWO MEN AND A TRUCK has a large selection of supplies for you to properly pack up your prized possessions.
 
  
   <div class="divider"></div>

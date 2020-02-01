@@ -39,34 +39,27 @@
 <div class="row">
       <div class="col s12"><h2 class="header">Contact Info</h2></div>
       <p>We are looking for experienced, dependable, responsible, customer orient team members to join our crew.</p>
-      <div>
-         <h4 >Benefits</h4>
-         <ul class="browser-default">
-            <li  >Competitive Pay</li>
-            <li >Bonuses and Incentive</li>
-            <li >On the Job Training</li>
-            <li >Professional Development</li>
-           
-            </ul>
-      </div> 
+      
       <div class="col s6">
          <div >
        <div class="card horizontal">
        <div class="card-stacked">
-Servicing Raleigh, Durham, Chapel Hill and Surrounding Area
-
-dsrmoving@gmail.com
-
-919-796-2673
-
-Address
-
-1722 E. 11th Street 
-Siler City, NC 27344
 
 
+         <div>
+              <ul class="browser-default">
+            <li >Servicing Raleigh, Durham, Chapel Hill and Surrounding Area</li>
+            <li ><a href="mailto:dsrmoving@gmail.com">dsrmoving@gmail.com</a></li>
+            <li >919-796-2673</li>
+            <li >1722 E. 11th Street 
+Siler City, NC 27344</li>
+           
+            </ul>
+      </div> 
 
-        
+
+
+       
         <div class="card-action">
           <a href="movingguide.php">Moving Guide</a>
         </div>
