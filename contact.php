@@ -53,11 +53,20 @@
          <div >
        <div class="card horizontal">
        <div class="card-stacked">
-        <div class="card-content">
-            <h3 class="header">About Your Move</h3>
-          <p>Have questions about your upcoming?  Check out our moving guide!</p>
-          
-            </div>
+
+
+dsrmoving@gmail.com
+
+919-796-2673
+
+Address
+
+1722 E. 11th Street 
+Siler City, NC 27344
+
+
+
+        
         <div class="card-action">
           <a href="movingguide.php">Moving Guide</a>
         </div>
