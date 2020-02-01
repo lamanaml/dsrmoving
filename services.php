@@ -80,8 +80,17 @@
     <p></p>
   </div>
 
+  <div class="divider"></div>
+  <div class="section">
+    <h5>Retirement & Assisted Living Moving</h5>
+    <p></p>
+  </div>
 
-
+ <div class="divider"></div>
+  <div class="section">
+    <h5>Donation Pickup and Delivery</h5>
+    <p></p>
+  </div>
 
 
 </div>
