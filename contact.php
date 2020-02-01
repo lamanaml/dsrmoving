@@ -48,7 +48,7 @@
 
          <div>
               <ul class="browser-default">
-            <li >Servicing Raleigh, Durham, Chapel Hill and Surrounding Area</li>
+            <li >We move to and from The Triangle Area (Raleigh, Durham, Chapel Hill) and the Triad (Greensboro, Winston Salem, High Point) and surrounding areas.</li>
             <li ><a href="mailto:dsrmoving@gmail.com">dsrmoving@gmail.com</a></li>
             <li >919-796-2673</li>
             <li >1722 E. 11th Street 

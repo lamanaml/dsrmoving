@@ -41,16 +41,7 @@
    </div>
 
 
-   <div class="divider"></div>
-   <div class="section">
-      <h5>How are settlements determined</h5>
-      <p> If you have lost or damaged items, contact your mover for a claim form. Claims will not be processed until you pay for the move in full. CLAIMS SHOULD BE FILED WITH THE MOVER AS SOON AS POSSIBLE, BUT NO LATER THAN NINE MONTHS AFTER DELIVERY. DO NOT DISPOSE OF ANY DAMAGED ITEMS OR THE PACKING MATERIALS USED FOR THOSE ITEMS SINCE THEY WILL BE NEEDED FOR PROOF OF DAMAGE.
-      </p>   
-         <p>
-   On the claim form, list all damaged and lost items, including the age, original cost, and weight as well as a description of the damage. The mover may request estimates or may send a third party to assess the damages.
-      </p>   <p>
-   All claims will be settled based upon the type of valuation you selected on the Bill of Lading and the Addendum to the Bill of Lading (see Valuation section above). If you are unable to resolve your claim with the mover, the Public Staff’s Transportation Rates Division (919-733-7766) is available to assist you. If the mover denies liability for all or part of your claim, you may seek legal action against the mover. However, such action must be taken within two years and one day from the date when written notice was given by the mover to you that your claim has been denied. Items believed to be stolen should be reported to the proper law enforcement authorities immediately.  </p>
-   </div>
+  
 
 
    
@@ -75,6 +66,17 @@
 
    Items of extraordinary value are defined as those having a value greater than $100 per pound. Such items, e.g., crystal, fur garments, antiques, etc., should be specifically listed in writing for the mover and signed for on the Bill of Lading. If not listed, the mover’s liability could be limited to $100 per pound per article (based upon the actual article weight) regardless of the valuation you selected. For example, a claim for a broken $500 collectible weighing one pound could be covered for only $100. However, if such collectible item is claimed on the inventory list as an item of extraordinary value at $500, the mover’s liability may be up to $500 if you selected Full Value Protection. But remember, even if you declare items of extraordinary value, the total value of your entire shipment is still no more than the total value that is established under the type and total amount of valuation protection you select. Keep a copy for your records of the inventory list you provide to your mover. It is highly recommended that you transport certain valuable items yourself, such as jewelry, stamp and coin collections, cash, guns, legal and medical documents, tax records, genealogy research, and other such irreplaceable items.
    </p>
+   </div>
+
+    <div class="divider"></div>
+   <div class="section">
+      <h5>How are settlements determined</h5>
+      <p> If you have lost or damaged items, contact your mover for a claim form. Claims will not be processed until you pay for the move in full. CLAIMS SHOULD BE FILED WITH THE MOVER AS SOON AS POSSIBLE, BUT NO LATER THAN NINE MONTHS AFTER DELIVERY. DO NOT DISPOSE OF ANY DAMAGED ITEMS OR THE PACKING MATERIALS USED FOR THOSE ITEMS SINCE THEY WILL BE NEEDED FOR PROOF OF DAMAGE.
+      </p>   
+         <p>
+   On the claim form, list all damaged and lost items, including the age, original cost, and weight as well as a description of the damage. The mover may request estimates or may send a third party to assess the damages.
+      </p>   <p>
+   All claims will be settled based upon the type of valuation you selected on the Bill of Lading and the Addendum to the Bill of Lading (see Valuation section above). If you are unable to resolve your claim with the mover, the Public Staff’s Transportation Rates Division (919-733-7766) is available to assist you. If the mover denies liability for all or part of your claim, you may seek legal action against the mover. However, such action must be taken within two years and one day from the date when written notice was given by the mover to you that your claim has been denied. Items believed to be stolen should be reported to the proper law enforcement authorities immediately.  </p>
    </div>
 
    <div class="divider"></div>
