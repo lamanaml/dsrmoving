@@ -58,8 +58,8 @@
     </div>
 
 <!-- Coupon -->
-  <div class="valign-wrapper">
-    <div width=><img src="assets/images/10coupon.png"   width="100%" alt="coupon"></div>
+  <div class="coupon">
+    
   </div>
 
 <!-- contact -->

@@ -48,6 +48,15 @@ font-family: Georgia, 'Times New Roman', Times, serif;
  font-size: 40px;
 }
 
+.coupon {
+    background-image: url("../images/10coupon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1214px;
+    height: 380px;
+    border: 2px dashed #333;
+}
+
 p {
   line-height: 2rem;
 }
