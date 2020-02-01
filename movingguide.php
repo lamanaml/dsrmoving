@@ -24,14 +24,34 @@
 <!-- <Main Content> -->
 
 
-Local moves are charged by in 15 minute increments with no minimum, plus a travel charge which includes the cost to get the truck to your location, dollies, shrink wrap, padding, and all of the tools to make you move safe and efficient. We will disassemble things like beds and dressers and reassemble them at the destination.
-
-We do not require deposits
-
-Add-on Services
 
 
+<div class="container">
+ <div class="divider"></div>
+  <div class="section">
+    <h5>DSR Moving Guide</h5>
+   
+  </div>
+  <div class="divider"></div>
+  <div class="section">
+    <h5>Commercial Moves and Corporate Relocation </h5>
+    <p>Local moves are charged by in 15 minute increments with no minimum, plus a travel charge which includes the cost to get the truck to your location, dollies, shrink wrap, padding, and all of the tools to make you move safe and efficient. We will disassemble things like beds and dressers and reassemble them at the destination.</p>
+  </div>
 
+      <div class="divider"></div>
+  <div class="section">
+    <h5>Paying for your Move</h5>
+    <p>We accept Cash, Credit Cards and Checks.  We do not require a deposit.   </p>
+  </div>
+
+
+ 
+    <div class="divider"></div>
+  <div class="section">
+    <h5>Add on Services</h5>
+    <p>  </p>
+  </div>
+    </div>
 
 
 
