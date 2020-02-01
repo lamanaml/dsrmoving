@@ -58,13 +58,8 @@
     </div>
 
 <!-- Coupon -->
-  <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        
-      </div>
-    </div>
-    <div ><img src="assets/images/10coupon.png" width="100%" alt="coupon"></div>
+  <div class="valign-wrapper">
+    <div width=><img src="assets/images/10coupon.png"   alt="coupon"></div>
   </div>
 
 <!-- contact -->
