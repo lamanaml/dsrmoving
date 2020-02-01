@@ -43,7 +43,8 @@ background-color: red;
 width: 100%;
 color: white;
 text-align: center;
-
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 400px;
 }
 
 p {

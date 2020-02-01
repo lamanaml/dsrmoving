@@ -21,7 +21,7 @@
 
 <!-- page title -->
   <div class="page-title-container" >   
-    <h2>Services</h2>
+    Services
   </div>
      
 <!-- <Main Content> -->
