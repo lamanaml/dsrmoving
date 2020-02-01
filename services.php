@@ -21,10 +21,9 @@
 
 <!-- page title -->
   <div id="page-title-container" >   
-    <div class="container">
-      <div class="row center">
-        <h5 class="header col s12 light">Services</h5>
-      </div>
+          <div class="row center">
+        <h5 class=" col s12 ">Services</h5>
+    
     </div>
   </div>
      
