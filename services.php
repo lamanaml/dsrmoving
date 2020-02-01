@@ -20,11 +20,8 @@
 <?php include 'nav.html';?>
 
 <!-- page title -->
-  <div id="page-title-container" >   
-          <div class="row center">
-        <h5 class=" col s12 ">Services</h5>
-    
-    </div>
+  <div class="page-title-container" >   
+    <h2>Services</h2>
   </div>
      
 <!-- <Main Content> -->
