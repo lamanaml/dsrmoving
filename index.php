@@ -25,7 +25,7 @@
     <h1>DSR Moving Corporation</h1>
     <p>Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</p>
     <div>
-      <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Request a Quote</a>
+      <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light teal lighten-1 btn-floating pulse">Request a Quote</a>
     </div>
   </div>
 </div>
