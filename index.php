@@ -40,6 +40,7 @@
         <p class="light">Moving across town, into town or out of town? Get the results you deserve with this quality service, and at an affordable price too! Our qualified team of professionals bring their experience and know-how with them on every job. But what really sets our services apart from the rest of the industry is our attention to detail and receptiveness to the unique needs of each client.</p>
       </div>
     </div>
+
     <div >
       <div class="icon-block">
         <h2 class="center brown-text"><i class="fas fa-truck-moving"></i></h2>
@@ -55,11 +56,10 @@
         <p class="light">We provide packing services and packing supplies!  We provide full or partial packing services to custom fit your moving needs. Get this service done quickly and efficiently by the experts here at DSR Moving Corporation. We understand how important it is to feel confident and worry free when it comes to the service we provide.</p>
       </div>
     </div>
+  
     </div>
-
 <!-- Coupon -->
-  <div class="coupon">
-    
+  <div class="coupon">    
   </div>
 
 <!-- contact -->
