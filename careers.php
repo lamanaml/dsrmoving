@@ -18,21 +18,9 @@
 
 <?php include 'nav.html';?>
 
-<!-- Hero -->
-  <div id="index-banner" class="parallax-container">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <br><br>
-        <h1 class="header center teal-text text-lighten-2">DSR Moving Corporation</h1>
-        <div class="row center">
-          <h5 class="header col s12 light">Careers</h5>
-        </div>
-      
-
-
-      </div>
-    </div>
-    <div class="parallax"><img src="assets/images/dogInBox.png" alt="Unsplashed background img 1"></div>
+<!-- page title -->
+  <div class="page-title-container" >   
+    Careers
   </div>
 <!-- <Main Content> -->
 <div class="container">

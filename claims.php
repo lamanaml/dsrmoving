@@ -17,7 +17,10 @@
 
 
 <?php include 'nav.html';?>
-
+<!-- page title -->
+  <div class="page-title-container" >   
+    Claims
+  </div>
 
 <!-- <Main Content> -->
 <div class="container">

@@ -19,7 +19,10 @@
 
 
 <?php include 'nav.html';?>
-
+<!-- page title -->
+  <div class="page-title-container" >   
+   Moving Guide
+  </div>
 
 <!-- <Main Content> -->
 
