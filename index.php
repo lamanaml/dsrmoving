@@ -64,7 +64,7 @@
         
       </div>
     </div>
-    <div ><img src="assets/images/10coupon.png" alt="winter image"></div>
+    <div ><img src="assets/images/10coupon.png" width="100%" alt="coupon"></div>
   </div>
 
 <!-- contact -->
