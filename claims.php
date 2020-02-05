@@ -71,6 +71,16 @@
    </p>
    </div>
 
+   <div class="divider"></div>
+      <div class="section">
+      <h5>Packed by Owner</h5>
+   <p>
+   If I pack my own boxes, are the contents covered?
+   </p>   <p>
+Boxes, cartons, or containers that are not packed by DSR are considered Packed By Owner ("PBO"). Any damages incurred to PBO items will not be compensated for in the event of a claim unless there is damage to the box as a result of move completed by DSR. For missing boxes, proof of ownership may be required, and compensation would be no more than $250 for the contents of that missing box, carton, or container, and a maximum of $2,500 per move. 
+   </p>
+   </div>
+
     <div class="divider"></div>
    <div class="section">
       <h5>How are settlements determined</h5>
