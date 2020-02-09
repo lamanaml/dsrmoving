@@ -90,7 +90,11 @@ Moving yourself but not sure where to get proper packing supplies? Give us a cal
     <p></p>
   </div>
 
-
+ <div class="divider"></div>
+  <div class="section">
+    <h5>Junk Removal</h5>
+    <p></p>
+  </div>
 </div>
 <!-- footer -->
  <?php include 'footer.html';?>
