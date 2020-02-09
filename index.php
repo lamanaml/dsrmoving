@@ -78,35 +78,10 @@
           </div>
       </div>
       </div>
-      <div class="col s6">
-        <div class="card   ">
-        <div class="card-content grey-text">
-        <table>
-                <span class="card-title">Office Hours</span>
-                <tbody>
-                  <tr>
-                    <td>Mon - Fri</td>
-                    <td>8 AM - 6 PM</td>
-                  </tr>
-                  <tr>
-                    <td>Saturday</td>
-                    <td>8 AM - 1 PM</td>
-                  </tr>
-                  <tr>
-                    <td>Sunday</td>
-                    <td>Closed</td>
-                  </tr>
-                </tbody>
-              </table>
-                    
+     
+     
+    
 
-
-
-    </div>
-
-                 
-      </div>
-      </div>
     </div>
 </div>
 

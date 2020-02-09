@@ -34,6 +34,16 @@
             <li >919-796-2673</li>
             <li >1722 E. 11th Street 
 Siler City, NC 27344</li>
+
+ <h5 class="white-text">Find us</h5>
+          <ul >
+            <li >251 Dominion Dr, <br/>Morrisville, NC 27560</li>
+           
+            <li >1722 E. 11th Street, <br/>Siler City, NC 27344</li>
+
+
+
+          </ul>
            
             </ul>
       
