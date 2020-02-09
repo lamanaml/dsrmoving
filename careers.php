@@ -42,25 +42,42 @@
            
             </ul>
       </div> 
-      <div class="col l8 s12">
+      <div class="col l10 s12">
          <div >
        <div class="card horizontal">
        <div class="card-stacked">
         <div class="card-content">
             <h3 class="header">Movers</h3>
              <h5 class="header">Responsibilities</h5>
-             <ul>
+             <ul class="browser-default">
         <li> Prep items for transport (furniture, art, appliances, etc.) </li>
- <li>oad and unload items into and from moving truck</li>
+ <li>Load and unload items into and from moving truck</li>
  <li>Successfully lead a crew through a move</li>
  <li>Complete paperwork and payment collection (basic math skills)</li>
- <li>Work together to provide exceptional customer service as you safely move, pack and unpack customer belongings.</li>
- <li>Greet customer upon arriving at the specified location and complete a walk-through of the premises.</li>
- <li>Communicate professionally both verbally and in writing; comfortably interface with customer.</li>
- <li>Assist driver with truck inspections and moving equipment inventory.</li>
- <li>Assist driver with directions to customer location. </li>
- <li>Be on time and ready to work.</li>
+ <li>Work together to provide exceptional customer service as you safely move, pack and unpack customer belongings</li>
+ <li>Greet customer upon arriving at the specified location and complete a walk-through of the premises</li>
+ <li>Communicate professionally both verbally and in writing; comfortably interface with customer</li>
+ <li>Assist driver with truck inspections and moving equipment inventory</li>
+ <li>Assist driver with directions to customer location </li>
+ <li>Be on time and ready to work</li>
 </ul>
+
+<h5 class="header">Requirements</h5>
+             <ul class="browser-default">
+<li>High School diploma or GED equivalent</li>
+<li>Great time management skills</li>
+<li>21 years or older due to insurance restrictions</li>
+<li>Willing to submit to pre-employment background check and drug screen</li>
+<li>Access to reliable and punctual transportation</li>
+<li>Excellent customer service skills</li>
+<li>Professional attitude and demeanor</li>
+<li>Experience in the fields of moving, furniture industry, general labor or warehouse helpful</li>
+<li>Physical stamina to lift / carry 80 pounds or more repeatedly throughout the day</li>
+<li>Ability to climb stairs on a daily basis</li>
+<li>Willingness to work evenings and weekends</li>
+
+
+               </ul>
 
             </div>
         <div class="card-action">
@@ -69,7 +86,7 @@
       </div>
     </div>
   </div></div>
-      <div class="col l8 s12">
+      <div class="col l10 s12">
           <div >
          <div class="card horizontal">
             <div class="card-stacked">
