@@ -26,50 +26,25 @@
 <div class="container">
 <div class="row">
       <div class="col s12"><h2 class="header">Contact Info</h2></div>
-      <p>We are looking for experienced, dependable, responsible, customer orient team members to join our crew.</p>
+      <p>We move to and from The Triangle Area (Raleigh, Durham, Chapel Hill) and the Triad (Greensboro, Winston Salem, High Point) and surrounding areas.</p>
+      <p>Questions or comments about your upcoming move? We are happy to help!</p>
 
-       <ul class="browser-default">
-            <li >We move to and from The Triangle Area (Raleigh, Durham, Chapel Hill) and the Triad (Greensboro, Winston Salem, High Point) and surrounding areas.</li>
-            <li ><a href="mailto:dsrmoving@gmail.com">dsrmoving@gmail.com</a></li>
-            <li >919-796-2673</li>
-            <li >1722 E. 11th Street 
-Siler City, NC 27344</li>
-
- <h5 class="white-text">Find us</h5>
-          <ul >
-            <li >251 Dominion Dr, <br/>Morrisville, NC 27560</li>
+      <h5 class="white-text">Call or email us</h5>
+      <p><a href="mailto:dsrmoving@gmail.com">dsrmoving@gmail.com</a></p>
+      <p >919-796-2673</p>
            
-            <li >1722 E. 11th Street, <br/>Siler City, NC 27344</li>
+      <h5 class="white-text">Find us</h5>
+      <p >251 Dominion Dr, Morrisville, NC 27560</p>
+      <p >1722 E. 11th Street, Siler City, NC 27344</p>
 
+      <h5 class="white-text">Frequently Asked Questions</h5>
+      Check out our <a href="movingguide.php">DSR Moving Guide</a>  to find answers to our most common questions!
 
-
-          </ul>
-           
-            </ul>
-      
-Questions about your move?  Our <a href="movingguide.php">Moving Guide</a> can help!
-
-       
-              <div class="col s6">
-          <div >
-         <div class="card horizontal">
-            <div class="card-stacked">
-            <div class="card-content">
-               <h3 class="header">File a Claim</h3>
-               <p>At DSR Moving, we pride ourselves in treating your move with caution and care.  In the event that something gets damaged or lost, we will resolve the issue in the a fair and timely manner</p>
+        <h5 class="white-text">File a Claim</h5>   
+        <p>At DSR Moving, we pride ourselves in treating your move with caution and care.  In the event that something gets damaged or lost, we will resolve the issue in the a fair and timely manner</p>
+        <a href="claims.php">File a Claim</a>
              
-            </div>
-         <div class="card-action">
-            <a href="claims.php">File a Claim</a>
-         </div>
-         </div>
-    </div>
-  </div>
-
-      </div>
-    </div>
-
-</div>
+           
 
 <!-- footer -->
 <?php include 'footer.html';?>
