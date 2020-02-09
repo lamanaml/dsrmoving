@@ -29,21 +29,22 @@
       <p>We move to and from The Triangle Area (Raleigh, Durham, Chapel Hill) and the Triad (Greensboro, Winston Salem, High Point) and surrounding areas.</p>
       <p>Questions or comments about your upcoming move? We are happy to help!</p>
 
-      <h5 class="white-text">Call or email us</h5>
+      <h5 >Call or email us</h5>
       <p><a href="mailto:dsrmoving@gmail.com">dsrmoving@gmail.com</a></p>
       <p >919-796-2673</p>
-           
-      <h5 class="white-text">Find us</h5>
+<hr>
+      <h5 >Find us</h5>
       <p >251 Dominion Dr, Morrisville, NC 27560</p>
       <p >1722 E. 11th Street, Siler City, NC 27344</p>
-
-      <h5 class="white-text">Frequently Asked Questions</h5>
+ <hr>
+      <h5 >Frequently Asked Questions</h5>
       Check out our <a href="movingguide.php">DSR Moving Guide</a>  to find answers to our most common questions!
-
-        <h5 class="white-text">File a Claim</h5>   
+ <hr>
+        <h5 >File a Claim</h5>   
         <p>At DSR Moving, we pride ourselves in treating your move with caution and care.  In the event that something gets damaged or lost, we will resolve the issue in the a fair and timely manner</p>
         <a href="claims.php">File a Claim</a>
-             
+  </div>
+  </div>           
            
 
 <!-- footer -->
