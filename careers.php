@@ -26,35 +26,50 @@
 <div class="container">
 <div class="row">
       <div class="col s12"><h2 class="header">Join our Team</h2></div>
+      <p>DSR Moving Corporation is a leading moving company in our industry in the region. We're proud of our 4.5 Yelp Rating from our customers. We're now hiring Drivers to help us keep growing. If you're excited to be part of a winning team, DSR Moving Corporation is a perfect place to get ahead. 
       <p>We are looking for experienced, dependable, responsible, customer orient team members to join our crew.</p>
       <div>
          <h4 >Benefits</h4>
          <ul class="browser-default">
-            <li  >Competitive Pay</li>
-            <li >Bonuses and Incentive</li>
+           <li>Competitive Wages up to $19/hr.</li>
+           <li>Weekly Pay</li>
+           <li>Up to $10,000+ per year in tips</li>
+           <li>Paid Vacation</li>
+          <li >Quarterly bonuses based on performance
+</li>
             <li >On the Job Training</li>
-            <li >Professional Development</li>
+            <li >Paid Vacation</li>
            
             </ul>
       </div> 
-      <div class="col s6">
+      <div class="col l8 s12">
          <div >
        <div class="card horizontal">
        <div class="card-stacked">
         <div class="card-content">
             <h3 class="header">Movers</h3>
-          <p>Must pass drug screen</p>
-          <p>Follow directions well</p>
-          <p>Good communication skills</p>
-          <p>Be in good physical condition</p>
+             <h5 class="header">Responsibilities</h5>
+             <ul>
+        <li> Prep items for transport (furniture, art, appliances, etc.) </li>
+ <li>oad and unload items into and from moving truck</li>
+ <li>Successfully lead a crew through a move</li>
+ <li>Complete paperwork and payment collection (basic math skills)</li>
+ <li>Work together to provide exceptional customer service as you safely move, pack and unpack customer belongings.</li>
+ <li>Greet customer upon arriving at the specified location and complete a walk-through of the premises.</li>
+ <li>Communicate professionally both verbally and in writing; comfortably interface with customer.</li>
+ <li>Assist driver with truck inspections and moving equipment inventory.</li>
+ <li>Assist driver with directions to customer location. </li>
+ <li>Be on time and ready to work.</li>
+</ul>
+
             </div>
         <div class="card-action">
-          <a href="https://form.jotform.com/70485863406159">Apply Now</a>
+          <a href="https://form.jotform.com/200367564686161">Apply Now</a>
         </div>
       </div>
     </div>
   </div></div>
-      <div class="col s6">
+      <div class="col l8 s12">
           <div >
          <div class="card horizontal">
             <div class="card-stacked">
@@ -69,7 +84,7 @@
          
             </div>
          <div class="card-action">
-            <a href="https://form.jotform.com/70485863406159">Apply Now</a>
+            <a href="https://form.jotform.com/200367564686161">Apply Now</a>
          </div>
          </div>
     </div>

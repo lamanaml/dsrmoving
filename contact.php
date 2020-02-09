@@ -25,7 +25,7 @@
 <!-- <Main Content> -->
 <div class="container">
 <div class="row">
-      <div class="col s12"><h2 class="header">Contact Info</h2></div>
+      <div class="col l8 s12"><h2 class="header">Contact Info</h2></div>
       <p>We move to and from The Triangle Area (Raleigh, Durham, Chapel Hill) and the Triad (Greensboro, Winston Salem, High Point) and surrounding areas.</p>
       <p>Questions or comments about your upcoming move? We are happy to help!</p>
 
