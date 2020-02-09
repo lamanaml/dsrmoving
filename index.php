@@ -59,8 +59,8 @@
   
     </div>
 <!-- Coupon -->
-  <div class="coupon">    
-  </div>
+  <!-- <div class="coupon">    
+  </div> -->
 
 <!-- contact -->
 <div class="container">
@@ -85,26 +85,9 @@
                 <span class="card-title">Office Hours</span>
                 <tbody>
                   <tr>
-                    <td>Monday</td>
+                    <td>Mon - Fri</td>
                     <td>8 AM - 6 PM</td>
                   </tr>
-                  <tr>
-                    <td>Tuesday</td>
-                    <td>8 AM - 6 PM</td>
-                  </tr>
-                  <tr>
-                    <td>Wednesday</td>
-                    <td>8 AM - 6 PM</td>
-                  </tr>
-                  <tr>
-                    <td>Thursday</td>
-                    <td>8 AM - 6 PM</td>
-                  </tr>
-                  <tr>
-                    <td>Friday</td>
-                    <td>8 AM - 6 PM</td>
-                  </tr>
-
                   <tr>
                     <td>Saturday</td>
                     <td>8 AM - 1 PM</td>
