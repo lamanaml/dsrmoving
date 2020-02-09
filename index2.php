@@ -20,17 +20,9 @@
 
 <?php include 'nav.html';?>
 <!-- Hero -->
-<div class="hero-image  pad">
-  <div class="hero-text">
-    <h1>DSR Moving Corporation</h1>
-    <p>Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</p>
-    <div>
-      <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light teal lighten-1 pulse">Request a Quote</a>
-    </div>
-  </div>
-</div>
-<div class="hero-image">
-  <div class="hero-text">
+
+<div class="hero-image2">
+  <div class="hero-text2">
     <h1>I am John Doe</h1>
     <p>And I'm a Photographer</p>
     <button>Hire me</button>
