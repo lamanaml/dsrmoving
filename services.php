@@ -48,7 +48,7 @@
     <div class="divider"></div>
   <div class="section">
     <h5>Labor Only Moves</h5>
-    <p>Our movers are available to load or unload a truck you’ve rented—or for at-home projects that need furniture to be moved around.  </p>
+    <p>Our movers are available to load or unload a truck you’ve rented—or for at-home projects that need furniture to be moved around.   (Pods, ABF, Uhaul...)</p>
   </div>
 
 

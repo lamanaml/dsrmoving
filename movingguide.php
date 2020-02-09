@@ -35,6 +35,12 @@
     <h5>DSR Moving Guide</h5>
    
   </div>
+
+  <div class="divider"></div>
+  <div class="section">
+    <h5>Service Area </h5>
+    <p>We move to and from The Triangle Area (Raleigh, Durham, Chapel Hill) and the Triad (Greensboro, Winston Salem, High Point) and surrounding areas.</p>
+  </div>
   <div class="divider"></div>
   <div class="section">
     <h5>Commercial Moves and Corporate Relocation </h5>
@@ -52,7 +58,36 @@
     <div class="divider"></div>
   <div class="section">
     <h5>Add on Services</h5>
-    <p>  </p>
+    <p>  Why choose us?
+We move to and from The Triangle Area (Raleigh, Durham, Chapel Hill) and the Triad (Greensboro, Winston Salem, High Point) and surrounding areas.
+
+​
+
+We are licensed and insured
+
+MC NC 625065  
+
+DOT 1702577    
+
+C-2515
+
+We can accommodate same day and next day moves 
+
+
+We move on Sundays
+
+We do not increase our prices for last minute moves or for weekend moves
+
+Our movers are experienced professionals
+
+We offer local and long distance moving services for individuals, companies, and employee relocation
+
+
+
+Load/Unload only (Pods, ABF, Uhaul...)
+
+
+Contact us to get your move started.</p>
   </div>
     </div>
 
