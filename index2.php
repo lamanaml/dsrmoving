@@ -21,38 +21,15 @@
 <?php include 'nav.html';?>
 <!-- Hero -->
 
-<div class="hero-image">
+<div class="hero-image  pad">
   <div class="hero-text">
-  <!-- Services -->
-  <div class="container flex-container">
-    <div >
-      <div class="icon-block">
-        <h2 class="center brown-text"><i class="fas fa-people-carry"></i></h2>
-        <h5 class="center">Residential Moves</h5>
-        <p class="light">Moving across town, into town or out of town? Get the results you deserve with this quality service, and at an affordable price too! Our qualified team of professionals bring their experience and know-how with them on every job. But what really sets our services apart from the rest of the industry is our attention to detail and receptiveness to the unique needs of each client.</p>
-      </div>
-    </div>
-
-    <div >
-      <div class="icon-block">
-        <h2 class="center brown-text"><i class="fas fa-truck-moving"></i></h2>
-        <h5 class="center">Commercial Moves</h5>
-        <p class="light">Trust our Experience.  Whether you are moving an employee, an office, products, or your entire business, we can help. We supply all the equipment and skills necessary to tackle just about every type of job, no matter how big or small it may be. We’re committed to providing consistently reliable service in a timely and professional manner.</p>
-      </div>
-    </div>
-    
+    <h1>DSR Moving Corporation</h1>
+    <p>Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</p>
     <div>
-      <div class="icon-block">
-        <h2 class="center brown-text"><i class="fas fa-box-open"></i></h2>
-        <h5 class="center">Packing</h5>
-        <p class="light">We provide packing services and packing supplies!  We provide full or partial packing services to custom fit your moving needs. Get this service done quickly and efficiently by the experts here at DSR Moving Corporation. We understand how important it is to feel confident and worry free when it comes to the service we provide.</p>
-      </div>
+      <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light teal lighten-1 pulse">Request a Quote</a>
     </div>
-  
-    </div>
+  </div>
 </div>
-
-
 
 <?php include 'footer.html';?>
 
