@@ -27,15 +27,8 @@
 <div class="row">
       <div class="col s12"><h2 class="header">Contact Info</h2></div>
       <p>We are looking for experienced, dependable, responsible, customer orient team members to join our crew.</p>
-      
-      <div class="col s6">
-         <div >
-       <div class="card horizontal">
-       <div class="card-stacked">
 
-
-         <div>
-              <ul class="browser-default">
+       <ul class="browser-default">
             <li >We move to and from The Triangle Area (Raleigh, Durham, Chapel Hill) and the Triad (Greensboro, Winston Salem, High Point) and surrounding areas.</li>
             <li ><a href="mailto:dsrmoving@gmail.com">dsrmoving@gmail.com</a></li>
             <li >919-796-2673</li>
@@ -43,18 +36,11 @@
 Siler City, NC 27344</li>
            
             </ul>
-      </div> 
-
-
+      
+Questions about your move?  Our <a href="movingguide.php">Moving Guide</a> can help!
 
        
-        <div class="card-action">
-          <a href="movingguide.php">Moving Guide</a>
-        </div>
-      </div>
-    </div>
-  </div></div>
-      <div class="col s6">
+              <div class="col s6">
           <div >
          <div class="card horizontal">
             <div class="card-stacked">
