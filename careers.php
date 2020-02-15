@@ -87,7 +87,7 @@
     </div>
   </div></div>
 
-  
+
       <div class="col l10 s12">
           <div >
          <div class="card horizontal">
@@ -110,7 +110,7 @@
 </ul>
 
 <h5 class="header">Job Requirements</h3>
-<ul clss="browser-default">
+<ul class="browser-default">
 <li>21 years or older due to insurance restrictions</li>
 <li>Valid driver's license and good driving record</li>
 <li>Prior driving experience </li>
