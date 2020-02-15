@@ -86,6 +86,8 @@
       </div>
     </div>
   </div></div>
+
+  
       <div class="col l10 s12">
           <div >
          <div class="card horizontal">
@@ -94,34 +96,34 @@
                <h3 class="header">Drivers</h3>
               <h5 class="header">Responsibilities</h3>
               <ul class="browser-dfault">
-<li>Do daily inspection of truck
-Immediately report any maintenance issues with trucks
-Keep trucks clean and organized
-Prep items for transport (furniture, art, appliances, etc.)
-Load and unload items into and from moving truck
-Successfully lead a crew through a move
-Complete paperwork and payment collection (basic math skills)
-Work together to provide exceptional customer service as you safely move, pack and unpack customer belongings.
-Greet customer upon arriving at the specified location and complete a walk-through of the premises.
-Communicate professionally both verbally and in writing; comfortably interface with customer.
-Be on time and ready to work.
+<li>Do daily inspection of truck</li>
+<li>Immediately report any maintenance issues with trucks</li>
+<li>Keep trucks clean and organized</li>
+<li>Prep items for transport (furniture, art, appliances, etc.)</li>
+<li>Load and unload items into and from moving truck</li>
+<li>Successfully lead a crew through a move</li>
+<li>Complete paperwork and payment collection (basic math skills)</li>
+<li>Work together to provide exceptional customer service as you safely move, pack and unpack customer belongings</li>
+<li>Greet customer upon arriving at the specified location and complete a walk-through of the premises</li>
+<li>Communicate professionally both verbally and in writing; comfortably interface with customer</li>
+<li>Be on time and ready to work</li>
 </ul>
 
 <h5 class="header">Job Requirements</h3>
 <ul clss="browser-default">
-21 years or older due to insurance restrictions
-Valid driver's license and good driving record
-Prior driving experience 
-Possession of a DOT medical card helpful
-Willing to submit to pre-employment background check and drug screen
-Access to reliable and punctual transportation
-High school diploma or equivalent
-Excellent customer service skills
-Professional attitude and demeanor
-Experience in the fields of moving, furniture industry, general labor or warehouse helpful.
-Physical stamina to lift / carry 80 pounds or more repeatedly throughout the day.
-Ability to climb stairs on a daily basis.
-Willingness to work evenings and weekends
+<li>21 years or older due to insurance restrictions</li>
+<li>Valid driver's license and good driving record</li>
+<li>Prior driving experience </li>
+<li>Possession of a DOT medical card helpful</li>
+<li>Willing to submit to pre-employment background check and drug screen</li>
+<li>Access to reliable and punctual transportation</li>
+<li>High school diploma or equivalent</li>
+<li>Excellent customer service skills</li>
+<li>Professional attitude and demeanor
+<li>Experience in the fields of moving, furniture industry, general labor or warehouse helpful</li>
+<li>Physical stamina to lift / carry 80 pounds or more repeatedly throughout the day</li>
+<li>Ability to climb stairs on a daily basis</li>
+<li>Willingness to work evenings and weekend</li>
 
  </ul>
 
