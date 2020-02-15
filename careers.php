@@ -107,6 +107,7 @@
 <li>Greet customer upon arriving at the specified location and complete a walk-through of the premises</li>
 <li>Communicate professionally both verbally and in writing; comfortably interface with customer</li>
 <li>Be on time and ready to work</li>
+
 </ul>
 
 <h5 class="header">Job Requirements</h3>
