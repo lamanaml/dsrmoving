@@ -62,7 +62,7 @@
  <li>Be on time and ready to work</li>
 </ul>
 
-<h5 class="header">Requirements</h5>
+<h5 class="header">Job Requirements</h5>
              <ul class="browser-default">
 <li>High School diploma or GED equivalent</li>
 <li>Great time management skills</li>
@@ -92,12 +92,39 @@
             <div class="card-stacked">
             <div class="card-content">
                <h3 class="header">Drivers</h3>
-               <p>Valid Drivers License</p>
-               <p>Clean Driving Record</p>
-               <p>Must pass drug screen</p>
-               <p>Follow directions well</p>
-               <p>Good communication skills</p>
-               <p>Be in good physical condition</p>
+              <h5 class="header">Responsibilities</h3>
+              <ul class="browser-dfault">
+<li>Do daily inspection of truck
+Immediately report any maintenance issues with trucks
+Keep trucks clean and organized
+Prep items for transport (furniture, art, appliances, etc.)
+Load and unload items into and from moving truck
+Successfully lead a crew through a move
+Complete paperwork and payment collection (basic math skills)
+Work together to provide exceptional customer service as you safely move, pack and unpack customer belongings.
+Greet customer upon arriving at the specified location and complete a walk-through of the premises.
+Communicate professionally both verbally and in writing; comfortably interface with customer.
+Be on time and ready to work.
+</ul>
+
+<h5 class="header">Job Requirements</h3>
+<ul clss="browser-default">
+21 years or older due to insurance restrictions
+Valid driver's license and good driving record
+Prior driving experience 
+Possession of a DOT medical card helpful
+Willing to submit to pre-employment background check and drug screen
+Access to reliable and punctual transportation
+High school diploma or equivalent
+Excellent customer service skills
+Professional attitude and demeanor
+Experience in the fields of moving, furniture industry, general labor or warehouse helpful.
+Physical stamina to lift / carry 80 pounds or more repeatedly throughout the day.
+Ability to climb stairs on a daily basis.
+Willingness to work evenings and weekends
+
+ </ul>
+
          
             </div>
          <div class="card-action">
