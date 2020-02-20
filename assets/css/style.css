@@ -128,5 +128,19 @@ hr {
 
 
 
+a:link {
+   color: white; 
+   }
 
+a​:active { 
+  color: white; 
+  }
+
+a​:visited { 
+  color: gray; 
+  }
+
+a​:hover { 
+  color: white; 
+  }
 
