@@ -23,7 +23,7 @@
 <div class="hero-image  pad">
   <div class="hero-text">
     <h1>DSR Moving Corporation</h1>
-    <p>Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</p>
+    <h4>Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</h4>
     <div>
       <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light teal lighten-1 pulse">Request a Quote</a>
     </div>
