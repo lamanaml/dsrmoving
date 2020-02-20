@@ -37,7 +37,11 @@ nav .brand-logo {
   color: white;
 }
 
-
+.white {
+    width: 100%;
+    height: 85px;
+    
+}
 
 .page-title-container {
 background-color: red;
