@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>DSR Moving Corporation : Contact </title>
+  <title>DSR Contact </title>
 
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -51,7 +51,7 @@
     Check out our <a href="movingguide.php">DSR Moving Guide</a> to find answers to our most common questions!
   <hr>
     <h5 >File a Claim</h5>   
-    <p>At DSR Moving, we pride ourselves in treating your move with caution and care.  In the event that something gets damaged or lost, we will resolve the issue in the a fair and timely manner</p>
+    <p>At DSR Moving, we take pride in treating your move with caution and care.  In the event that something gets damaged or lost, we will resolve the issue in a fair and timely manner.</p>
     <a href="claims.php">File a Claim</a>
     </div>
       
