@@ -54,6 +54,8 @@
     <p>At DSR Moving, we take pride in treating your move with caution and care.  In the event that something gets damaged or lost, we will resolve the issue in a fair and timely manner.</p>
     <a href="claims.php">File a Claim</a>
     </div>
+      </div>
+        </div>
       
 
 <!-- footer -->
