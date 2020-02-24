@@ -80,6 +80,9 @@ p {
 .sidenav-trigger {
   color: red;
 }
+.i {
+  padding: 10px;
+}
 
 .parallax-container {
   min-height: 380px;
