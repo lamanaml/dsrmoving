@@ -20,12 +20,25 @@
 
 <?php include 'nav.html';?>
 <!-- Hero -->
+
 <div class="hero-image  pad">
   <div class="hero-text">
-    <h1>DSR Moving Corporation</h1>
-    <h5>Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</h5>
+
+    <div class="row">
+
+      <div class="col s4">
+        <h1>DSR Moving Corporation</h1>
+    <h4>Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</h4>
+      </div>
+
+      <div class="col s8">
+      
+      </div>
+
+    </div>
+   
     <div>
-      <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light teal lighten-1 pulse">Request FREE a Quote</a>
+      <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red lighten-1 pulse">Request FREE a Quote</a>
     </div>
   </div>
 </div>
