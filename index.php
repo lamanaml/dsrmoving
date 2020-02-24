@@ -27,8 +27,8 @@
     <div class="row">
 
       <div class="col s4">
-        <h1>DSR Moving Corporation</h1>
-    <h4>Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</h4>
+        <h2>DSR Moving Corporation</h2>
+    <p>Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</p>
       </div>
 
       <div class="col s8">
