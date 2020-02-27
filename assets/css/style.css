@@ -31,6 +31,12 @@ nav .brand-logo {
   position: relative;
 }
 
+.jumbotron{
+ background-image: url(‘../images/couple2cr.jpg’);
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+
 /* Place text in the middle of the image */
 .hero-text {
   text-align: left;
