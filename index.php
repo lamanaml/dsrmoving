@@ -20,27 +20,26 @@
 
 <?php include 'nav.html';?>
 <!-- Hero -->
-
-<div class="jumbotron" >
-
-<div class="row">
-      <div class="col s4">
+<div class = "jumbotron" style="background-image: url(assets/images/couple2cr.jpg); background-size: 100%;">
+  <div class= "container">
+    <div class="row">
+      <div class="col l4 s12">
         <h1 class="display-4 grey_text">DSR Moving Corporation</h1>
         <p class="lead grey_text">Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</p>
       </div>
-
-      <div class="col s8">
+      <div class="col l8 s12">
       </div>
     </div>
 
-  
-  
-  <p class="lead  ">
-    <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red lighten-1 pulse">Request a Quote</a>
-  </p>
+    <div class="row">
+      <div class="col l4 s12">
+        <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red lighten-1 pulse">Request a Quote</a>
+      </div>
+      <div class="col l8 s12">
+      </div>
+    </div>
+  </div>
 </div>
-
-
 <!-- Services -->
   <div class="container flex-container">
     <div >
