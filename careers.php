@@ -24,6 +24,10 @@
   </div>
 <!-- <Main Content> -->
 <div class="container">
+  <div>
+<img src="assets/images/careerfair.png" width="800px">
+</div>
+
 <div class="row">
       <div class="col s12"><h2 class="header">Join our Team</h2></div>
       <p>DSR Moving Corporation is a leading moving company in our industry in the region. We're proud of our 4.5 Yelp Rating from our customers. We're now hiring Drivers to help us keep growing. If you're excited to be part of a winning team, DSR Moving Corporation is a perfect place to get ahead. 

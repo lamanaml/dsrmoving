@@ -67,28 +67,6 @@
     </div>
   
     </div>
-<!-- Coupon -->
-  <!-- <div class="coupon">    
-  </div> -->
-
-<!-- contact -->
-<!-- <div class="container">
-  <div class="row">
-    <div class="col s6">
-      <div class="card   ">
-        <div class="card-content grey-text">
-          <span class="card-title">Contact Us</span>
-          <p>When you're in need of a dependable Packing, Moving & Storage Service, don’t hesitate. Contact DSR Moving Corporation today!</p>
-          <p>Servicing moves to and from Raleigh, Durham, Chapel Hill and Surrounding Areas.</p>
-        </div>
-        
-        
-      </div>
-      </div> -->
-     
-     
-    
-
     </div>
 </div>
 
