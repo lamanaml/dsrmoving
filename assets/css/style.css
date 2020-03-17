@@ -2,33 +2,6 @@ body, html {
     height: 100%;
 }
 
-/* ////////////////////////////////////////////////////////////////////// */
-/* navigation */
-
-nav ul a,
-nav .brand-logo {
-  color: #444;
-  padding:10px;
-  
-}
-
-
-.jumbotron{
-  height: 100%;
-  background-image: url('../images/couple2cr.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  padding:100px;
-  color:white;
-}
-
-.flex-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  
-}
-
 hr {
     border: none;
     height: 1px;
@@ -37,23 +10,61 @@ hr {
     background-color: #fff; /* Modern Browsers */
 }
 
+p {
+  line-height: 2rem;
+}
 
-a:link {
-   color: grey; 
-   }
+.white {
+    width: 100%;
+    height: 85px; 
+}
 
-a​:active { 
-  color: grey;
-   text-decoration: underline;
+/* ///////////////////    navigaion   /////////////////////////////////////////////////// */
+nav ul a,
+nav .brand-logo {
+  color: #444;
+  padding:10px;
+}
+
+.sidenav-trigger {
+  color: red;
+}
+
+/* //////////////////////////   sections    //////////////////////////////////////////// */
+.jumbotron {
+  height: 100%;
+  background-image: url('../images/couple2cr.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding:100px;
+  color:white;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
   }
 
-a​:visited { 
-  color: gray; 
-  }
 
-a​:hover { 
-  color: grey; 
-  }
+/* ///////////////////////////////////// flexbox   /////////////////////////////////////////// */
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+
+
+/* /////////////////////    Links   /////////////////////////////////////////////////// */
+a:link { color: grey;  }
+a​:active {   color: grey;   text-decoration: underline;   }
+a​:visited {   color: gray; }
+a​:hover {   color: grey;  }
 
 
 a.red:link {color: white; text-decoration: none; }
@@ -64,15 +75,11 @@ a.red:hover {color:white; text-decoration:underline;}
   color:grey;
 }
 
-.white {
-    width: 100%;
-    height: 85px; 
-}
 
 
+/* ////////////////////////// Topography ////////////////////////////////////////////////////// */
 h5 {
    color:red
-    
 }
 
 .page-title-container {
@@ -88,32 +95,14 @@ font-size: 40px;
 }
 
 
-
-p {
-  line-height: 2rem;
-}
  .red-text-head{
   font-family: 'Lobster', cursive;
  }
 
-.sidenav-trigger {
-  color: red;
-}
-.i {
-  padding: 10px;
-}
-
-.parallax-container {
-  min-height: 380px;
-  line-height: 0;
-  height: auto;
-  color: rgba(255,255,255,.9);
-}
-  .parallax-container .section {
-    width: 100%;
-  }
 
 
+
+/* ///////////////////////////    images   //////////////////////////////////////// */
 
 .icon-block {
   padding: 0 15px;
@@ -122,11 +111,12 @@ p {
   font-size: inherit;
 }
 
+.i {
+  padding: 10px;
+}
 
 
-/* ////////////////////////////////////////////////////////////////////// */
-/* footer */
-
+/* /////////////////////     footer     ///////////////////////////////////////////////// */
 footer.page-footer {
   margin: 0px;
   padding: 10px;
@@ -134,10 +124,7 @@ footer.page-footer {
 
 
 
-
-/* ////////////////////////////////////////////////////////////////////// */
-/* Media Queries */
-
+/* //////////////     media queries       //////////////////////////////////////////////////////// */
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;

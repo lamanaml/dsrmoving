@@ -24,9 +24,9 @@
   </div>
 <!-- <Main Content> -->
 <div class="container">
-  <div>
+  <!-- <div>
 <img src="assets/images/careerfair.png" width="800px">
-</div>
+</div> -->
 
 <div class="row">
       <div class="col s12"><h2 class="header">Join our Team</h2></div>
