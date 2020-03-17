@@ -34,6 +34,9 @@
   <div class="section">
     <h5>DSR Moving Guide</h5>
    
+   <h3 class="white-text">DSR Moving Professionals</h3>
+          <p class="grey-text text-lighten-4">We work closely with our clients to customize the services we provide based on their specific needs and circumstances. We are ready and willing to go the extra mile whenever and wherever we’re needed. Contact us today to get in touch with our team of experienced professionals.</p>
+        </div>
   </div>
 
   <div class="divider"></div>

@@ -34,7 +34,7 @@
     <p>We move to and from The Triangle Area (Raleigh, Durham, Chapel Hill) and the Triad (Greensboro, Winston Salem, High Point) and surrounding areas.</p>
     
     <div>
-      <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-light teal lighten-1 ">Request FREE a Quote</a>
+      <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red lighten-1 pulse">Request a Quote</a>
     </div>
 
     <h5 >Contact Number</h5>

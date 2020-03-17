@@ -2,6 +2,7 @@ body, html {
     height: 100%;
 }
 
+/* ////////////////////////////////////////////////////////////////////// */
 /* navigation */
 
 nav ul a,
@@ -11,11 +12,9 @@ nav .brand-logo {
   
 }
 
-.jumbotron {
-  height: 100%;
-}
 
 .jumbotron{
+  height: 100%;
   background-image: url('../images/couple2cr.jpg');
   background-size: cover;
   background-repeat: no-repeat;
@@ -30,6 +29,13 @@ nav .brand-logo {
   
 }
 
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #fff3; /* old IE */
+    background-color: #fff; /* Modern Browsers */
+}
 
 
 a:link {
@@ -117,13 +123,6 @@ p {
 }
 
 
-hr {
-    border: none;
-    height: 1px;
-    /* Set the hr color */
-    color: #fff3; /* old IE */
-    background-color: #fff; /* Modern Browsers */
-}
 
 /* ////////////////////////////////////////////////////////////////////// */
 /* footer */
