@@ -23,6 +23,37 @@ nav .brand-logo {
   color:white;
 }
 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}
+
+
+
+a:link {
+   color: grey; 
+   }
+
+a​:active { 
+  color: grey;
+   text-decoration: underline;
+  }
+
+a​:visited { 
+  color: gray; 
+  }
+
+a​:hover { 
+  color: grey; 
+  }
+
+
+a.red:link {color: white; text-decoration: none; }
+a.red:visited {color: white; text-decoration: underline; }
+a.red:active {color: white; }
+a.red:hover {color:white; text-decoration:underline;}
 .grey_text {
   color:grey;
 }
@@ -76,6 +107,38 @@ p {
     width: 100%;
   }
 
+
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #fff3; /* old IE */
+    background-color: #fff; /* Modern Browsers */
+}
+
+/* ////////////////////////////////////////////////////////////////////// */
+/* footer */
+
+footer.page-footer {
+  margin: 0px;
+  padding: 10px;
+}
+
+
+
+
+/* ////////////////////////////////////////////////////////////////////// */
+/* Media Queries */
+
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
@@ -91,54 +154,3 @@ p {
     top: 0;
   }
 }
-
-.icon-block {
-  padding: 0 15px;
-}
-.icon-block .material-icons {
-  font-size: inherit;
-}
-
-footer.page-footer {
-  margin: 0;
-}
-
-.flex-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  
-}
-
-hr {
-    border: none;
-    height: 1px;
-    /* Set the hr color */
-    color: #fff3; /* old IE */
-    background-color: #fff; /* Modern Browsers */
-}
-
-
-
-a:link {
-   color: grey; 
-   }
-
-a​:active { 
-  color: grey;
-   text-decoration: underline;
-  }
-
-a​:visited { 
-  color: gray; 
-  }
-
-a​:hover { 
-  color: grey; 
-  }
-
-
-a.red:link {color: white; text-decoration: none; }
-a.red:visited {color: white; text-decoration: underline; }
-a.red:active {color: white; }
-a.red:hover {color:white; text-decoration:underline;}
