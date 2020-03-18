@@ -25,6 +25,12 @@
 <?php include 'nav.html';?>
 <!-- Hero -->
 <div class = "jumbotron" style="background-image: url(assets/images/couple2cr.jpg); background-size: 100%;">
+
+
+
+
+
+
   <div class= "container">
     <div class="row">
       <div class="col l4 s12">
