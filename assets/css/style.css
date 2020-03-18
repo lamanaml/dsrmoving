@@ -123,7 +123,7 @@ font-size: 40px;
   font-size: inherit;
 }
 
-.i {
+i {
   padding: 10px;
 }
 
@@ -131,14 +131,18 @@ font-size: 40px;
 /* /////////////////////     footer     ///////////////////////////////////////////////// */
 footer.page-footer {
   margin: 0px;
-  padding: 10px;
+}
+
+.footer-copyright {
+  padding: 50px;
+  text-align: center;
 }
 
 
 
 /* //////////////     media queries       //////////////////////////////////////////////////////// */
 
-@media only screen and (max-width : 1072px) {
+@media only screen and (max-width : 960px) {
   .parallax-container .section {
     position: absolute;
     top: 40%;
@@ -167,8 +171,6 @@ footer.page-footer {
     display: flex;
     flex-direction: column;
      width: 70%;
- 
-    
   }
 
   
@@ -219,3 +221,6 @@ footer.page-footer {
 
     }
 }
+
+
+
