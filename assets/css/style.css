@@ -19,7 +19,7 @@ p {
 nav ul a,
 nav .brand-logo {
   color: #444;
-  padding:10px;
+  padding: 20px;
 }
 
 .sidenav-trigger {
@@ -28,9 +28,9 @@ nav .brand-logo {
 
 .white {
     width: 100%;
-    height: 85px; 
+    height: 100px; 
 }
-
+ 
 /* //////////////////////////   sections    //////////////////////////////////////////// */
 .jumbotron {
   background-color: white;
