@@ -24,34 +24,20 @@
 
 <?php include 'nav.html';?>
 <!-- Hero -->
-<div class = "jumbotron" style="background-image: url(assets/images/couple2cr.jpg); background-size: 100%;">
+<div class = "jumbotron" >
 
 
-
-
-
-
-  <div class= "container">
-    <div class="row">
-      <div class="col l4 s12">
-        <h1 class="display-4 grey_text">DSR Moving Corporation</h1>
-        <p class="lead grey_text">Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</p>
-      </div>
-      <div class="col l8 s12">
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col l4 s12">
-        <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red lighten-1 pulse">Request a Quote</a>
-      </div>
-      <div class="col l8 s12">
-      </div>
-    </div>
-  </div>
+<div class="flex-container1">
+  <div><h1 class="display-4 grey_text">DSR Moving Corporation</h1>
+        </p></div>
+  <div><p class="lead grey_text">Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</div>
+  <div> <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red small lighten-1 pulse">Request a Quote</a></div>
 </div>
+</div>
+
+
 <!-- Services -->
-  <div class="container flex-container">
+  <div class="container flex-container2">
     <div >
       <div class="icon-block">
         <h2 class="center brown-text"><i class="fas fa-people-carry"></i></h2>
@@ -79,6 +65,7 @@
     </div>
     </div>
 </div>
+
 
 <?php include 'footer.html';?>
 
