@@ -40,6 +40,11 @@ nav .brand-logo {
     
     
 }
+
+.pad {
+    padding:40px;
+    border: none;
+}
  
 /* //////////////////////////   sections    //////////////////////////////////////////// */
 .jumbotron {
