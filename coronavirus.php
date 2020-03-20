@@ -25,7 +25,7 @@
 <!-- <Main Content> -->
 <div class="container pad">
   <div>
-  We at DSR want to assure you we are putting the safety of our customers and team members first. We’re following all best practices and guidelines for sanitation, cleanliness, and precaution as we continue to help our customers move forward.
+  We at DSR want to assure you we are putting the safety of our customers and team members first. We’re following all best practices and guidelines for sanitation, cleanliness, and precaution as we continue to help our customers move forward. If you have any questions regarding scheduling a move, a move you already have scheduled, or information surrounding COVID-19 Coronavirus and our business, please give us a call.  Below are a few common questions.
   </div>
   <div><h4>Is my move still on?</h4></div>
 
@@ -45,8 +45,6 @@
 
   <div>Yes, DSR Moving Corporation is always looking for movers and drivers. </div>
   
-  <div>
-  If you have any other questions regarding scheduling a move, a move you already have scheduled, or information surrounding COVID-19 Coronavirus and our business, we encourage you to contact your local franchise directly to discuss these issues.</div>
 
 </div> 
 
