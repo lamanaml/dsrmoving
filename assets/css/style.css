@@ -20,6 +20,7 @@ nav ul a,
 nav .brand-logo {
   color: #444;
   padding: 20px;
+  border: none;
 }
 
 .sidenav-trigger {
@@ -29,12 +30,15 @@ nav .brand-logo {
 .white {
     width: 100%;
     height: 100px; 
+    border: none;
 }
 
 .container {
     width: 90%;
-    border-style: none!important;
-    border: none !important;
+    padding: 20px;
+    border: none;
+    
+    
 }
  
 /* //////////////////////////   sections    //////////////////////////////////////////// */
