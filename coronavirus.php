@@ -33,7 +33,7 @@
 
   <div><h4>What precautions is DSR taking to prevent spreading COVID-19?</h4></div>
 
-  <div>We are following guidelines put in place by the federal government, local governments, and the CDC. We are taking extra safety measures, using hand sanitizer throughout the move, and even practicing social distancing with our teams and customers.  Due to the personal safety of our team, we do not wear gloves </div>
+  <div>We are following guidelines put in place by the federal government, local governments, and the CDC. We are taking extra safety measures, using hand sanitizer throughout the move, and even practicing social distancing with our teams and customers.  </div>
 
 
   <div><h4>Will I be penalized if I cancel or reschedule my move?</h4></div>
