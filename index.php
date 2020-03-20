@@ -24,7 +24,7 @@
 
 <?php include 'nav.html';?>
 
-<div class=" card-panel #e53935 red darken-1">
+<div class=" card-panel #e53935 red lighten-1">
   <div class="container">
  DSR Moving is taking all necessary precautions to ensure the safety of our team and our customers. <a href="coronavirus.php"> Read More </a>
 </div>
