@@ -99,8 +99,8 @@ a.red:link {color: white; text-decoration: none; }
 a.red:visited {color: white; text-decoration: underline; }
 a.red:active {color: white; }
 a.red:hover {color:white; text-decoration:underline;}
-.grey_text {
-  color:grey;
+
+
 }
 
 
@@ -109,6 +109,13 @@ a.red:hover {color:white; text-decoration:underline;}
 h5 {
    color:red
 }
+
+.grey_text {
+  color:grey;
+}
+
+.white_text {
+  color:white; 
 
 .page-title-container {
 background-color: red;
