@@ -89,7 +89,7 @@ nav .brand-logo {
 
 
 /* /////////////////////    Links   /////////////////////////////////////////////////// */
-a:link { color: grey;  }
+a:link { color: blue;  }
 a​:active {   color: grey;   text-decoration: underline;   }
 a​:visited {   color: gray; }
 a​:hover {   color: grey;  }
@@ -116,6 +116,7 @@ h5 {
 
 .white_text {
   color:white; 
+}
 
 .page-title-container {
 background-color: red;
