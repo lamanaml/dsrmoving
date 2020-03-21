@@ -33,7 +33,7 @@
 
   <div>Unless we call to cancel or postpone your move, it’s still business as usual for all of our customers who are booked. If you have any questions or concerns about your scheduled move, please give us a call.</div>
 
-  <div><h5>What precautions are DSR taking to prevent spreading COVID-19?</h5></div>
+  <div><h5>What precautions is DSR taking to prevent spreading COVID-19?</h5></div>
 
   <div>We are following guidelines put in place by the federal government, local governments, and the CDC. We are taking extra safety measures, using hand sanitizer throughout the move, and even practicing social distancing with our teams and customers.  </div>
 
