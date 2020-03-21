@@ -42,6 +42,10 @@
 
   <div> We completely understand if our customers feel more comfortable canceling or postponing their move until this blows over.  If you want to reschedule, we will do everything that we can to find a date that works better for you.</div>
 
+<div><h5>What if I am not feeling well?</h5></div>
+
+  <div>We are requiring all of our team members to stay at home if they are not feeling well, and we are respectfully asking any of our customers who are not feeling well to postpone their move date with us.  </div>
+
 
   <div><h5>Is DSR still hiring team members at this time?</h5></div>
 
