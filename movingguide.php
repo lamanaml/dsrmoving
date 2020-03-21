@@ -19,26 +19,7 @@
 
 
 <?php include 'nav.html';?>
-  <nav class="white pad nav" role="navigation">
-      <a id="logo-container" href="index.php" class="brand-logo "><img src="assets/images/logos/DSRMovingLogo2.jpg" width="60%"></a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="https://ant.hellomoving.com/DSRMOVING/index.htm">Quote Request</a></li>
-        <li><a href="contact.php">Contact</a></li>
-        <li><a href="careers.php">Careers</a></li>
-        <!--  <li><a href="services.php">Services</a></li>-->
-      </ul> 
-
-  <!-- mobile navigation -->
-    <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-    <ul id="nav-mobile" class="sidenav">
-      <!-- <li><a href="services.php">Services</a></li> -->
-      <li><a href="contact.php">Contact</a></li>
-      <li><a href="careers.php">Careers</a></li>
-      <li><a href="https://ant.hellomoving.com/DSRMOVING/index.htm">Quote Request</a></li>
-      </ul>
-    </div>
-  </nav>
-</div>
+  
 
 <!-- page title -->
   <div class="page-title-container" >   
