@@ -55,7 +55,7 @@
       <div class="divider"></div>
   <div class="section">
     <h5>Special Moves</h5>
-    <p>We move large bulky items such as pianos, gun safes, kayaks, canoes and large appliances.   Whether you have purchased new items and need delivery, are donating items we can help.</p>
+    <p>We move large bulky items such as pianos, gun safes, kayaks, canoes and large appliances.   Whether you have purchased new items and need delivery, are donating items, or removing junk, we can help.</p>
   </div>
 
   <div class="divider"></div>
@@ -69,7 +69,7 @@
     <h5>Packing Supplies</h5>
     <p>Moving yourself but not sure where to get proper packing supplies? Give us a call! We can drop off everything that you need to to get your packing underway!  If you are not able to pack everything, let us know, our pack crew can come by and help you get the job done! </p>
   </div>
-Moving yourself but not sure where to get proper packing supplies? Give us a call! TWO MEN AND A TRUCK has a large selection of supplies for you to properly pack up your prized possessions.
+
 
  
   <div class="divider"></div>
@@ -78,24 +78,10 @@ Moving yourself but not sure where to get proper packing supplies? Give us a cal
     <p></p>
   </div>
 
-  <div class="divider"></div>
-  <div class="section">
-    <h5>Retirement & Assisted Living Moving</h5>
-    <p></p>
-  </div>
+ 
 
- <div class="divider"></div>
-  <div class="section">
-    <h5>Donation Pickup and Delivery</h5>
-    <p></p>
-  </div>
 
- <div class="divider"></div>
-  <div class="section">
-    <h5>Junk Removal</h5>
-    <p></p>
-  </div>
-</div>
+
 <!-- footer -->
  <?php include 'footer.html';?>
 

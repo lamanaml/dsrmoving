@@ -4,8 +4,9 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-   <meta name="description"  content="at DSR Moving Corporation, we work closely with our clients to customize the services we provide based on their specific needs and circumstances. We are ready and willing to go the extra mile whenever and wherever we’re needed. Contact us today to get in touch with our team of experienced professionals.">
-    <meta name="keywords"  content="moving, movers, residential, commercial, storage, dsr, professional, local movers, sunday, packing, packing supplies, same day, elderly movers, apartment movers, unload, loading help, internal move, north carolina, durham, raleigh, chapel hill, moving services, long distance moving companies, furniture movers, house movers">
+   <meta name="description"  content="At DSR Moving Corporation, we work closely with our clients to customize the services we provide based on their specific needs and circumstances. We are ready and willing to go the extra mile whenever and wherever we’re needed. Contact us today to get in touch with our team of experienced professionals.">
+    <meta name="keywords"  content="moving, movers, residential, commercial, storage, dsr, professional, local movers, sunday, packing, packing supplies, same day, elderly movers, apartment movers, unload, loading help, internal move, north carolina, durham, raleigh, chapel hill, moving services, long distance moving companies, furniture movers, house movers, 27215, Angier, Apex, Bahama, Bear Creek, Bonlee, Burlington, Butner, Bynum, Carrboro, Cary,cedar Grove, Chapel Hill, Clayton, Creedmoor, Cumnock, Durham, Efland, Franklinton, Fuquay Varina, Garner, Goldston, Graham, Gulf, Haw River, Henderson, Hillsborough, Holly Springs, Hurdle Mills, Kittrell, Knightdale, Mebane, Moncure, Morrisville, New Hill, Oxford, Pittsboro, Prospect Hill, Raleigh, NC
+Rolesville, Rougemont, Sanford, Saxapahaw, Smithfield, Snow Camp, Stem, Swepsonville, Timberlake, Wake Forest, Wendell, Willow Spring, Wilsons Mills, Youngsville, Zebulon ">
 
   <title>DSR Moving Corporation</title>
 
