@@ -75,11 +75,12 @@
   <div class="divider"></div>
   <div class="section">
     <h5>Overnight, Short-term and Long-term Storage</h5>
-    <p></p>
+    <p>Some of our other local moving services include:</p>
   </div>
 
- 
 
+ 
+  </div>
 
 
 <!-- footer -->
