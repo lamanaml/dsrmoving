@@ -75,7 +75,7 @@
   <div class="divider"></div>
   <div class="section">
     <h5>Overnight, Short-term and Long-term Storage</h5>
-    <p>Some of our other local moving services include:</p>
+    <p>DSR offers complete storage services at our facility in Siler City. We are able to accommodate any storage load, no matter how large or small. </p>
   </div>
 
 
