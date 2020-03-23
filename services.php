@@ -70,8 +70,12 @@
     <p>Moving yourself but not sure where to get proper packing supplies? Give us a call! We can drop off everything that you need to to get your packing underway!  If you are not able to pack everything, let us know, our pack crew can come by and help you get the job done! </p>
   </div>
 
+ <div class="divider"></div>
+  <div class="section">
+    <h5> Crating</h5>
+ <p>We provide crating to protect delicate items such as marble, pictures and chandeliers. </p>
+  </div>
 
- 
   <div class="divider"></div>
   <div class="section">
     <h5>Overnight, Short-term and Long-term Storage</h5>
