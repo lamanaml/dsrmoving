@@ -50,9 +50,19 @@ nav .brand-logo {
 .container {
     width: 90%;
     padding: 20px;
-    border: none;
-    
-    
+    border: none; 
+
+}
+
+.card-panel {
+  -webkit-transition: -webkit-box-shadow .25s;
+  transition: -webkit-box-shadow .25s;
+  transition: box-shadow .25s;
+  transition: box-shadow .25s, -webkit-box-shadow .25s;
+  padding: 24px;
+  margin: 0;
+  border-radius: 2px;
+  background-color: #fff;
 }
 
 .pad {
