@@ -31,7 +31,7 @@
   </div>
   <div><h5>Is my move still on?</h5></div>
 
-  <div>Unless we call to cancel or postpone your move, it’s still business as usual for all of our customers who are booked. If you have any questions or concerns about your scheduled move, please give us a call.</div>
+  <div>From what we understand so far, Moving Companies have been classified as an essential service. Our goal is to be there to help and will do so in a safe and responsible manner. Unless we call to cancel or postpone your move, it’s still business as usual. If you have any questions or concerns about your scheduled move, please give us a call.</div>
 
   <div><h5>What precautions is DSR taking to prevent spreading COVID-19?</h5></div>
 

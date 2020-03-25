@@ -16,7 +16,20 @@ p {
 }
 
 
-/* ///////////////////    navigaion   /////////////////////////////////////////////////// */
+/* ///////////////////    navigation   /////////////////////////////////////////////////// */
+#upper-nav {
+   display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: grey;
+  width:100%;
+  height: 50px;
+  color: white;
+  padding-right: 10%;
+
+
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -100,8 +113,11 @@ a.red:visited {color: white; text-decoration: underline; }
 a.red:active {color: white; }
 a.red:hover {color:white; text-decoration:underline;}
 
+a.upper:link {color: white; text-decoration: none;  font-family: 'Roboto', sans-serif; font-weight: bold;}
+a.upper:visited {color: white; text-decoration: underline; font-family: 'Roboto', sans-serif; font-weight: bold;}
+a.upper:active {color: white; font-family: 'Roboto', sans-serif; font-weight: bold;}
+a.upper:hover {color:white; text-decoration:underline; font-family: 'Roboto', sans-serif; font-weight: bold;}
 
-}
 
 
 
@@ -197,6 +213,10 @@ footer.page-footer {
      width: 70%;
   }
 
+   #upper-nav {
+      display: none;
+    }
+
   
 }
 
@@ -243,5 +263,9 @@ footer.page-footer {
     visibility: hidden;
     height:0px;
 
+    }
+
+    #upper-nav {
+      display: none;
     }
 }
