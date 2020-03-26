@@ -206,11 +206,11 @@ footer.page-footer {
   #index-banner .section {
     top: 10%;
   } */
-/* 
+/* */
    h1 {
     font-size: 24px;
     weight: bold;
-  } */
+  } 
 
   .jumbotron {
   background-color: white;
@@ -286,11 +286,11 @@ footer.page-footer {
   flex-direction: column;
   justify-content: space-around;
 }
-/* 
+
   h1 {
     font-size: medium;
     weight: bold;
-  } */
+  }
   .small {
     display: flex;
     flex-direction: column;
