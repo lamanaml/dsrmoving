@@ -196,7 +196,14 @@ footer.page-footer {
 @media only screen and (min-width : 768px) {
   
  #upper-nav {
-      display: inline;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: grey;
+  width:100%;
+  height: 50px;
+  color: white;
+  padding-right: 10%;
     }
 }
  /* ----------------------   768 px and up   ------------------------------ */
@@ -225,7 +232,14 @@ footer.page-footer {
     
 }
  #upper-nav {
-      display: inline;
+     display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: grey;
+  width:100%;
+  height: 50px;
+  color: white;
+  padding-right: 10%;
     }
 
 }
@@ -257,7 +271,14 @@ footer.page-footer {
     }
 
  #upper-nav {
-      display: block;
+       display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: grey;
+  width:100%;
+  height: 50px;
+  color: white;
+  padding-right: 10%;
     }
 
 }
