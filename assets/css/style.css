@@ -249,7 +249,9 @@ footer.page-footer {
       width: 50%;
     }
 
-
+ #upper-nav {
+      display: none;
+    }
 
 }
 /* ------------------------- everything smaller than 600px---------------------- */
