@@ -1,6 +1,5 @@
-
 body, html {
-    height: 100%;
+  height: 100%;
 }
 
 hr {
@@ -9,7 +8,7 @@ hr {
     /* Set the hr color */
     color: #fff3; /* old IE */
     background-color: #fff; /* Modern Browsers */
-}
+} 
 
 p {
   line-height: 2rem;
@@ -117,7 +116,6 @@ a​:active {   color: grey;   text-decoration: underline;   }
 a​:visited {   color: gray; }
 a​:hover {   color: grey;  }
 
-
 a.red:link {color: white; text-decoration: none; }
 a.red:visited {color: white; text-decoration: underline; }
 a.red:active {color: white; }
@@ -127,8 +125,6 @@ a.upper:link {color: white; text-decoration: none;  font-family: 'Roboto', sans-
 a.upper:visited {color: white; text-decoration: underline; font-family: 'Roboto', sans-serif; font-weight: bold;}
 a.upper:active {color: white; font-family: 'Roboto', sans-serif; font-weight: bold;}
 a.upper:hover {color:white; text-decoration:underline; font-family: 'Roboto', sans-serif; font-weight: bold;}
-
-
 
 
 /* ////////////////////////// Topography ////////////////////////////////////////////////////// */
@@ -230,10 +226,10 @@ footer.page-footer {
  /* ---------------------   600 px - 768  px  ------------------------------- */
 @media only screen and (min-width : 600px) {
 
-  /* h1 {
+   h1 {
       font-size: 24px;
       font-weight: bold;
-    } */
+    } 
 
     .jumbotron {
     background-color: white;
@@ -250,7 +246,7 @@ footer.page-footer {
   .flex-container1 {
       display: flex;
       flex-direction: column;
-      width: 70%;
+      width: 50%;
     }
 
 
