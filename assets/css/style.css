@@ -223,9 +223,7 @@ footer.page-footer {
 }
 
 
-   #upper-nav {
-      display: none;
-    }
+
 
 }
 
@@ -255,9 +253,7 @@ footer.page-footer {
       width: 70%;
     }
 
-    #upper-nav {
-        display: none;
-      } 
+
 
 }
 /* ------------------------- everything smaller than 600px---------------------- */
@@ -290,11 +286,11 @@ footer.page-footer {
   flex-direction: column;
   justify-content: space-around;
 }
-
+/* 
   h1 {
     font-size: medium;
     weight: bold;
-  }
+  } */
   .small {
     display: flex;
     flex-direction: column;
