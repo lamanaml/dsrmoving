@@ -257,7 +257,7 @@ footer.page-footer {
     }
 
  #upper-nav {
-      display: none;
+      display: block;
     }
 
 }
