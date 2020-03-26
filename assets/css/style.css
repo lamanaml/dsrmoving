@@ -296,9 +296,12 @@ footer.page-footer {
     weight: bold;
   }
   .small {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     font-size: 12px;
     padding: 0px;
-    line-height: normal;
+    line-height: 1rem;
   }
 
   .lead {
