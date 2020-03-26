@@ -297,6 +297,8 @@ footer.page-footer {
   }
   .small {
     font-size: 12px;
+    padding: 0px;
+    line-height: normal;
   }
 
   .lead {
