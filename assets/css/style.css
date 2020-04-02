@@ -1,6 +1,9 @@
 body, html {
   height: 100%;
+  font-family: 'Open Sans', sans-serif;
+
 }
+
 
 hr {
     border: none;
@@ -72,9 +75,10 @@ nav .brand-logo {
 /* //////////////////////////   sections    //////////////////////////////////////////// */
 .jumbotron {
   background-color: white;
-  background-image:  url(../images/couple2crop.jpg);
+  background-image:  url(../images/DSRcover1.png);
   background-size: cover;
   background-repeat: no-repeat;
+  height:80%;
   padding: 100px 0px 50px 50px ;
   margin: 0px;
     
@@ -218,15 +222,15 @@ footer.page-footer {
   } */
 /* */
 
-  .jumbotron {
+  /* .jumbotron {
   background-color: white;
-  background-image:  url(../images/couple2crop.jpg);
+  background-image:  url(../images/DSRcover1.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 100px 0px 50px 50px ;
   margin: 0px;
     
-}
+} */
  #upper-nav {
      display: flex;
   align-items: center;
@@ -247,10 +251,10 @@ footer.page-footer {
       font-size: 24px;
       font-weight: bold;
     } 
-
+/* 
     .jumbotron {
     background-color: white;
-    background-image: url(../images/couple2crop.jpg);
+    background-image: url(../images/DSRcover1.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
@@ -258,7 +262,7 @@ footer.page-footer {
     margin: 0px;
     
     /* linear-gradient(rgba(46,74,117,1) 0%, rgba(46,74,117,1) 100%); */
-  }
+  } */
 
   .flex-container1 {
       display: flex;
@@ -288,7 +292,7 @@ footer.page-footer {
     height: 30vh;
     padding:10px;
     background-color: white;
-    background-image:  url(../images/couple2crop.jpg);
+    background-image:  url(../images/DSRcover1.png);
     background-size: contain;
     background-repeat: no-repeat;
     padding: 30px 0px 50px 50px ;

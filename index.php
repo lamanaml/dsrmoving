@@ -14,11 +14,13 @@ Rolesville, Rougemont, Sanford, Saxapahaw, Smithfield, Snow Camp, Stem, Swepsonv
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="assets/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="assets/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  
 
   <!-- Fonts -->
 <script src="https://kit.fontawesome.com/910ccccaa3.js" crossorigin="anonymous"></script>
 <link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -32,7 +34,7 @@ Rolesville, Rougemont, Sanford, Saxapahaw, Smithfield, Snow Camp, Stem, Swepsonv
 </div>
 </div>
 <!-- Hero -->
-<div class = "jumbotron" >
+<!-- <div class = "jumbotron" >
 
 
 <div class="flex-container1">
@@ -40,6 +42,16 @@ Rolesville, Rougemont, Sanford, Saxapahaw, Smithfield, Snow Camp, Stem, Swepsonv
         </p></div>
   <div><p class="lead grey_text">Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</div>
   <div> <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red small lighten-1 pulse">Request a Quote</a></div>
+</div>
+</div> -->
+<div class = "jumbotron" >
+
+
+<div class="flex-container1">
+  <!--  <div><h1 class="display-4 grey_text">DSR Moving Corporation</h1>
+        </p></div>
+ <div><p class="lead grey_text">Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</div> -->
+  
 </div>
 </div>
 
