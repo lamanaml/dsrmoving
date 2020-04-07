@@ -76,11 +76,7 @@
  <p>We provide crating to protect delicate items such as marble, pictures and chandeliers. </p>
   </div>
 
-  <div class="divider"></div>
-  <div class="section">
-    <h5>Overnight, Short-term and Long-term Storage</h5>
-    <p>DSR offers complete storage services at our facility in Siler City. We are able to accommodate any storage load, no matter how large or small. </p>
-  </div>
+
 
 
  
