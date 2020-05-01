@@ -189,7 +189,15 @@ font-size: 40px;
   font-family: 'Lobster', cursive;
  }
 
+.light  {
+   font-size: 15px;
+}
 
+
+ .lead {
+   font-size: 30px;
+   font-family: 'Lobster', cursive;
+}
 
 
 /* ///////////////////////////    images   //////////////////////////////////////// */
@@ -240,9 +248,8 @@ footer.page-footer {
   .flex-container2 {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
 }
-
  }
 
 /* ------------------------- everything smaller than 600px---------------------- */
@@ -257,6 +264,10 @@ footer.page-footer {
     line-height: 1rem;
   }
 
-  
+  .lead {
+    visibility: hidden;
+    height:0px;
+
+    }
 
 }
