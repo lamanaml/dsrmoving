@@ -242,6 +242,7 @@ footer.page-footer {
   flex-direction: column;
   justify-content: space-around;
 }
+
  }
 
 /* ------------------------- everything smaller than 600px---------------------- */
@@ -256,10 +257,6 @@ footer.page-footer {
     line-height: 1rem;
   }
 
-  .lead {
-    visibility: hidden;
-    height:0px;
-
-    }
+  
 
 }
