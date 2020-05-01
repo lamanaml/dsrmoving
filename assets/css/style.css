@@ -224,15 +224,6 @@ footer.page-footer {
  /* ----------------------   768 px and up   ------------------------------ */
 
 @media only screen and (max-width : 768px) {
-/* .parallax-container .section {
-    position: absolute;
-    top: 40%;
-  }
-  #index-banner .section {
-    top: 10%;
-  } */
-/* */
-
 
  #upper-nav {
      display: flex;
@@ -251,9 +242,10 @@ footer.page-footer {
 
 /* ------------------------- everything smaller than 600px---------------------- */
 @media only screen and (max-width : 600px) {
-  #index-banner .section {
 
-  }
+   #upper-nav {
+      display: none;
+    }
 
   .flex-container1 {
     display: flex;
@@ -288,7 +280,5 @@ footer.page-footer {
 
     }
 
-    #upper-nav {
-      display: none;
-    }
+   
 }
