@@ -223,7 +223,8 @@ footer.page-footer {
 
  /* ----------------------   768 px and up   ------------------------------ */
 
-@media screen and (max-width : 768px) {
+ @media screen and (max-width:768px) 
+ {
 
  #upper-nav {
       display: none;
@@ -245,7 +246,7 @@ footer.page-footer {
 
 
 /* ------------------------- everything smaller than 600px---------------------- */
-@media screen and (max-width : 600px) {
+@media screen and (max-width:600px) {
 
    #upper-nav {
       display: none;
