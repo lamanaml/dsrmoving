@@ -224,9 +224,7 @@ footer.page-footer {
  /* ----------------------   everything smaller than 768 px and up   ------------------------------ */
 
  @media screen and (max-width:1000px)  {
-body {
-    background: green;
-  } 
+
  #upper-nav {
       display: none;
     }
