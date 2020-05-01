@@ -246,7 +246,9 @@ footer.page-footer {
 
 /* ------------------------- everything smaller than 600px---------------------- */
 @media screen and (max-width:600px) {
-
+body {
+    background: green;
+  }
   
   h1 {
     font-size: medium;
