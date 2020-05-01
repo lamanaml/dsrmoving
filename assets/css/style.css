@@ -229,6 +229,19 @@ footer.page-footer {
       display: none;
     }
 
+ .flex-container1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     width: 80%;
+     padding: 0%
+  }
+
+  .flex-container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
 
 
 /* ------------------------- everything smaller than 600px---------------------- */
