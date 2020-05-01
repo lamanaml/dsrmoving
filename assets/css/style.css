@@ -248,12 +248,8 @@ body {
 
 /* ------------------------- everything smaller than 600px---------------------- */
 @media screen and (max-width:600px) {
-
   
-  h1 {
-    font-size: medium;
-    weight: bold;
-  }
+
   .small {
     display: flex;
     flex-direction: column;
