@@ -40,23 +40,33 @@ Rolesville, Rougemont, Sanford, Saxapahaw, Smithfield, Snow Camp, Stem, Swepsonv
 
 
 <div class="flex-container1">
-  <div><h1 class="display-4 grey_text">DSR Moving Corporation</h1>
-        </p></div>
-  <div><p class="lead grey_text">Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</div>
-  <div> <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red small lighten-1 pulse">Request a Quote</a></div>
+  <div>
+    <h1 class="display-4 grey_text">DSR Moving Corporation</h1>
+  </div>
+  <div>
+    <p class="lead grey_text">Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.
+  </div>
+  <div> 
+    <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red small lighten-1 pulse">Request a Quote</a>
+  </div>
 </div>
 </div> -->
-<div class="jumbotron" >
 
-
-<div class="flex-container1">
-  <!--  <div><h1 class="display-4 grey_text">DSR Moving Corporation</h1>
-        </p></div>
- <div><p class="lead grey_text">Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</div> -->
-  
+<!-- <div class="jumbotron" >
+  <div class="flex-container1">
+     <div><h1 class="display-4 grey_text">DSR Moving Corporation</h1>
+          </p></div>
+  <div><p class="lead grey_text">Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</div> 
+    
+  </div>
+</div> -->
+<div class="hero-image">
+  <div class="hero-text">
+    <h1>DSR Moving Corporation</h1>
+    <p>Moving? We can help! We handle big, small, local, long distance, residential, commercial, Sunday, and same day / next day moves.</p>
+    <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red small lighten-1 pulse">Request a Quote</a>
+  </div>
 </div>
-</div>
-
 
 <!-- Services -->
   <div class="container flex-container2">
