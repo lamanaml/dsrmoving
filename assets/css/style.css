@@ -234,8 +234,9 @@ footer.page-footer {
   display: flex;
   flex-direction: column;
   justify-content: center;
-   width: 70%;
-     padding: 10px
+  text-align: center;
+  width: 70%;
+  padding: 10px
 }
  }
 
