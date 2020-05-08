@@ -69,27 +69,12 @@ nav .brand-logo {
 }
  
 /* //////////////////////////   sections    //////////////////////////////////////////// */
-.jumbotron {
-  background-color: white;
-  background-image:  url(../images/DSRcover1.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-    height:90%;
-  padding: 100px 0px 50px 50px ;
-  margin: 0px;
-    
-}
 
-.parallax-container {
-  min-height: 380px;
-  line-height: 0;
-  height: auto;
-  color: rgba(255,255,255,.9);
+.banner {
+  height:40px;
+  align-items: center;
+  vertical-align: center;
 }
-  .parallax-container .section {
-    width: 100%;
-  }
-
 
 
 

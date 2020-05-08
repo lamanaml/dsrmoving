@@ -35,7 +35,7 @@
       <div>
          <h4 >Benefits</h4>
          <ul class="browser-default">
-           <li>Competitive Wages up to $19/hr.</li>
+           <li>Competitive Wages up to $17/hr.</li>
            <li>Weekly Pay</li>
            <li>Up to $10,000+ per year in tips</li>
            <li>Paid Vacation</li>
@@ -99,18 +99,18 @@
             <div class="card-content">
                <h3 class="header">Drivers</h3>
               <h5 class="header">Responsibilities</h3>
-              <ul class="browser-dfault">
-<li>Do daily inspection of truck</li>
-<li>Immediately report any maintenance issues with trucks</li>
-<li>Keep trucks clean and organized</li>
-<li>Prep items for transport (furniture, art, appliances, etc.)</li>
-<li>Load and unload items into and from moving truck</li>
-<li>Successfully lead a crew through a move</li>
-<li>Complete paperwork and payment collection (basic math skills)</li>
-<li>Work together to provide exceptional customer service as you safely move, pack and unpack customer belongings</li>
-<li>Greet customer upon arriving at the specified location and complete a walk-through of the premises</li>
-<li>Communicate professionally both verbally and in writing; comfortably interface with customer</li>
-<li>Be on time and ready to work</li>
+              <ul class="browser-default">
+        <li>Do daily inspection of truck</li>
+        <li>Immediately report any maintenance issues with trucks</li>
+        <li>Keep trucks clean and organized</li>
+        <li>Prep items for transport (furniture, art, appliances, etc.)</li>
+        <li>Load and unload items into and from moving truck</li>
+        <li>Successfully lead a crew through a move</li>
+        <li>Complete paperwork and payment collection (basic math skills)</li>
+        <li>Work together to provide exceptional customer service as you safely move, pack and unpack customer belongings</li>
+        <li>Greet customer upon arriving at the specified location and complete a walk-through of the premises</li>
+        <li>Communicate professionally both verbally and in writing; comfortably interface with customer</li>
+        <li>Be on time and ready to work</li>
 
 </ul>
 

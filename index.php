@@ -28,7 +28,7 @@ Rolesville, Rougemont, Sanford, Saxapahaw, Smithfield, Snow Camp, Stem, Swepsonv
 <body>
 
   <!-- Navigation -->
-  <div class="card-panel #e53935 red lighten-1">
+  <div class="card-panel banner #e53935 red lighten-1">
   <div class="pad white_text">
   DSR Moving is taking all necessary precautions to ensure the safety of our team and our customers. <a class="upper" href="coronavirus.php"> Read More </a>
   </div>
