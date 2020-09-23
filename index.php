@@ -41,7 +41,9 @@ Rolesville, Rougemont, Sanford, Saxapahaw, Smithfield, Snow Camp, Stem, Swepsonv
   <div class="hero-text">
     <h1>DSR Moving Corporation</h1>
     <p class="lead">Leave it to the Professionals!</p>
-    <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red small lighten-1 pulse">Request a Quote</a>
+
+    <!-- <a href="https://ant.hellomoving.com/DSRMOVING/index.htm" id="download-button" class="btn-large waves-effect waves-light red small lighten-1 pulse">Request a Quote</a> -->
+    <button type="button" class="btn btn-warning">Call 919-796-2673</button>
   </div>
 </div>
 
